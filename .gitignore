@@ -1,0 +1,53 @@
+# Исключить директории и файлы
+Application Data/
+Cookies/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+главное меню/
+Мои документы/
+Шаблоны/
+.e4mc_cache/
+.gitconfig
+.gnupg/
+.idea/
+.ipython/
+.matplotlib/
+.ssh/
+.viminfo
+.vs/
+.vscode/
+3D Objects/
+API_Program/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+PycharmProjects/
+Saved Games/
+Searches/
+Videos/
+bs-list.json
+demo/
+django_project/
+e-user.json
+ex-list
+ex-list2.json
+gcc/
+java_error_in_pycharm64.hprof
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+source/
+test/
